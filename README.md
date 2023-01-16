@@ -15,10 +15,3 @@
     <li>etc.</li>
 </ul>
 
-<h2>Scripts and Notebooks</h2>
-
-<p>The repository contains the following scripts and notebooks:</p>
-
-<ul>
-    <li><strong>Sequence Analysis:</strong> This folder contains scripts and notebooks that demonstrate how to use Python to analyze DNA and protein sequences. Topics covered include sequence alignment, motif discovery, and phylogenetic analysis.</li>
-    <li><strong>Microarray Analysis:</strong> This folder contains scripts and notebooks that demonstrate how to use Python to analyze microarray data. Topics covered include data preprocessing, statistical analysis, and visualization.</
