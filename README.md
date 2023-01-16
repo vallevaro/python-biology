@@ -1,37 +1,24 @@
-Iris Dataset Analysis
+<h1>Python for Biology</h1>
 
-This repository contains a Python script that demonstrates how to analyze the Iris dataset and create graphics and basic statistics. The Iris dataset is a public dataset of flower measurements that is commonly used for machine learning classification problems.
+<p>This repository contains Python scripts and Jupyter Notebooks that demonstrate how to use Python for various biology applications. The goal of this repository is to make Python code more accessible to biology students and researchers, and to provide examples of how Python can be used to analyze and visualize biological data.</p>
 
-Getting Started
+<h2>Getting Started</h2>
 
-The script is written in Python 3 and uses the following libraries:
+<p>The scripts and notebooks in this repository are written in Python 3 and use various libraries. It is recommended that you have the following libraries installed before running the scripts:</p>
 
-pandas
-matplotlib
-seaborn
-It is recommended that you have these libraries installed before running the script.
+<ul>
+    <li>Biopython</li>
+    <li>pandas</li>
+    <li>matplotlib</li>
+    <li>seaborn</li>
+    <li>scikit-learn</li>
+    <li>etc.</li>
+</ul>
 
-Running the script
+<h2>Scripts and Notebooks</h2>
 
-The script can be run using the following command:
+<p>The repository contains the following scripts and notebooks:</p>
 
-Copy code
-python iris_analysis.py
-Script Description
-
-The script loads the Iris dataset using the pandas library and assign it to a variable called data. The script contains two functions:
-
-One function called analyze_correlations(data) which is used to analyze the correlations between the features in the Iris dataset and create a heatmap of the pairwise correlations between the features in the Iris dataset.
-The other function is the one that was provided in the previous question which is used to create a histogram to visualize the distribution of sepal length, create a box plot to visualize the spread of petal width by species and compute basic statistics.
-Output
-
-The script will produce the following output:
-
-A histogram of the distribution of sepal length
-A box plot of the spread of petal width by species
-Basic statistics of the dataset such as the mean sepal length and standard deviation of petal width
-A heatmap of the pairwise correlations between the features in the Iris dataset
-The correlation matrix between the features in the Iris dataset
-Note
-
-This script is provided as an example and is not intended for production use. The Iris dataset is a small and simple dataset, and the methods used in this script may not be appropriate for more complex datasets.
+<ul>
+    <li><strong>Sequence Analysis:</strong> This folder contains scripts and notebooks that demonstrate how to use Python to analyze DNA and protein sequences. Topics covered include sequence alignment, motif discovery, and phylogenetic analysis.</li>
+    <li><strong>Microarray Analysis:</strong> This folder contains scripts and notebooks that demonstrate how to use Python to analyze microarray data. Topics covered include data preprocessing, statistical analysis, and visualization.</
