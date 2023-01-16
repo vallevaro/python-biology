@@ -12,6 +12,5 @@
     <li>matplotlib</li>
     <li>seaborn</li>
     <li>scikit-learn</li>
-    <li>etc.</li>
 </ul>
 
